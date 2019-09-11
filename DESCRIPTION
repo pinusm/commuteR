@@ -1,11 +1,16 @@
 Package: commuteR
 Type: Package
-Title: What the Package Does (Title Case)
+Title: Sync Your R Setup to Your Laptop and Work on the Road.
 Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
-License: What license is it under?
+Authors@R: person("Michael", "Pinus", email = "pinusm@post.bgu.ac.il",
+  role = c("aut", "cre", "str"))
+Maintainer: Michael Pinus <pinusm@post.bgu.ac.il>
+Description: Sync your R setup (Packages and Environment) between
+    computers. Ideally, between your workstation and your laptop
+    so you can continue working on the road, exactly where you left
+    off at the office.
+License: MIT
 Encoding: UTF-8
 LazyData: true
+URL: https://github.com/pinusm/commuteR
+BugReports: https://github.com/pinusm/commuteR/issues

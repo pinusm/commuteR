@@ -17,5 +17,6 @@ BugReports: https://github.com/pinusm/commuteR/issues
 Imports: 
     githubinstall,
     magrittr,
-    pacman
+    pacman,
+    googledrive
 RoxygenNote: 6.1.1

@@ -15,8 +15,10 @@ LazyData: true
 URL: https://github.com/pinusm/commuteR
 BugReports: https://github.com/pinusm/commuteR/issues
 Imports: 
-    githubinstall,
     magrittr,
     pacman,
-    googledrive
+    httpuv,
+    rdrop2,
+    remotes,
+    dplyr
 RoxygenNote: 6.1.1

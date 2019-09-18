@@ -70,9 +70,6 @@ populate_backup <- function(){
 #' @export
 #'
 backup_to_cloud <- function(path = "commuteR"){
-  packages <- list_packages()
-  gh_packages <- list_github_packages()
-  cran_packages <- list_cran_packages(packages)
 
   to_backup <- populate_backup()
 

@@ -1,3 +1,4 @@
+# pkgdown <img src="man/figures/logo.svg" align="right" alt="commuteR logo" width="200"/>
 
 # commuteR
 
@@ -49,3 +50,7 @@ restore_from_cloud()
 ```
 
 You're then welcome to run the backup function on your 'target' machine, and the restore function on your 'source' machine, to have a two-way sync. You probably won't need to autheticate again.
+
+## Credits
+
+Image by [Clker-Free-Vector-Images](https://pixabay.com/users/Clker-Free-Vector-Images-3736/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=305019) from [Pixabay](https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=305019)

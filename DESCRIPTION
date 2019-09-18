@@ -1,7 +1,7 @@
 Package: commuteR
 Type: Package
 Title: Sync Your R Setup to Your Laptop and Work on the Road.
-Version: 0.1.0
+Version: 0.2.0
 Authors@R: person("Michael", "Pinus", email = "pinusm@post.bgu.ac.il",
   role = c("aut", "cre", "str"))
 Maintainer: Michael Pinus <pinusm@post.bgu.ac.il>

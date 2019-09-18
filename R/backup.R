@@ -1,8 +1,7 @@
-
 #' List all installed packages
 #'
-#' @return A data frame with installed packages names and version numbers
-#'
+#' @return A data frame with the names and versions of all the packages installed
+#' @import utils
 
 list_packages <- function() {
   ip <- as.data.frame(utils::installed.packages()[, c(1, 3:4)])
